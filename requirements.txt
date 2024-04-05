@@ -1,0 +1,15 @@
+chromadb==0.4.15
+huggingface-hub==0.21.4
+ipykernel==6.29.3
+langchain==0.1.13
+numpy==1.26.4
+openai==1.14.2
+openpyxl==3.1.2
+pandas==2.2.1
+python-dotenv==1.0.1
+streamlit==1.32.2
+torch==2.2.2+cu118
+torchaudio==2.2.2+cu118
+torchvision==0.17.2+cu118
+tornado==6.4
+tqdm==4.66.2
